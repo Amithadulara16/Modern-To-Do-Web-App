@@ -1,6 +1,4 @@
-හරි 👍 ඔයාගේ project එක GitHub එකට upload කරනකොට use කරන්න පුළුවන් **professional description (README description)** එකක් මෙන්න 👇
 
----
 
 # 📌 **GitHub Project Description**
 
